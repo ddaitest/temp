@@ -38,7 +38,7 @@
 |token|String|token|
 
 ####E.G
-```
+```JSON
 {
 	"result":1,
 	"data":{
