@@ -8,12 +8,15 @@
 - Request 中所有参数使用 UTF-8 URL Encode.
 
 - 公共参数
+
+
 |参数名|类型|必填|描述|
 |-|-|-|-|
 |token|string|是|Token|
 |device_id|string|是|IMEI|
 |plat|int|是|平台 `1`IOS `2`android|
 |cver|int|是|app版本号（int型）|
+
 
 - Response
 
