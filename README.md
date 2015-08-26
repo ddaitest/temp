@@ -104,7 +104,8 @@ Good:
 |count|Integer |商品数量|
 
 ####E.G
-```
+
+```JSON
 	{
 		"result": 1,
 		"data": {
@@ -158,7 +159,7 @@ Good:
 ###Response
 
 ####E.G
-```
+```JSON
 {
 	"result":1
 }
@@ -177,7 +178,7 @@ Good:
 ###Response
 
 ####E.G
-```
+```JSON
 {
 	"result":1
 }
@@ -193,7 +194,7 @@ Good:
 ###Response
 
 ####E.G
-```
+```JSON
 {
 	"result":1
 }
@@ -211,7 +212,7 @@ Good:
 ###Response
 
 ####E.G
-```
+```JSON
 {
 	"result":1
 }
