@@ -76,7 +76,7 @@ Task:
 |order_amount|Float |订单金额|
 |discount|Float |优惠金额|
 |order_grand_total|Float |应付金额|
-|payment_method|Integer |支付方式...|
+|payment_method|String |支付方式...|
 |cash|Float |现金支付...|
 |client_remark|String |客户备注|
 |service_remark|String |客服备注|
