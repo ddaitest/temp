@@ -64,7 +64,7 @@
 
 |参数名|类型|描述|
 |--------|--------|--------|
-|tasks|JSONArray of Task|所有订单|
+|task|JSONArray of Task|所有订单|
 
 Task:
 
@@ -85,7 +85,7 @@ Task:
 |shipping_address|String |地址|
 |client_name|String |客户名称|
 |client_phone|String |客户电话|
-|task_status|String |订单状态：1=未接单；2=已接单；3=配送中；4未送达；5已送达|
+|task_status|String |订单状态：1=未接单；2=已接单；3=配送中；4已送达；5未送达|
 |pay_status|String |收款状态,`1`已收款 `0`未收款|
 |address_lat|Float |送货坐标，经度|
 |address_lng|Float |送货坐标，纬度|
