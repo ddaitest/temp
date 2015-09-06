@@ -95,6 +95,7 @@ Task:
 |sauces|Integer |酱汁数|
 |special_needs|Integer |特需，`1`是 `0`否|
 |goods|JSONArray of Good |客户名称|
+|sms|Integer |是否发送过短信,`1`已发 `0`未发|
 
 Good:
 
