@@ -96,6 +96,7 @@ Task:
 |special_needs|Integer |特需，`1`是 `0`否|
 |goods|JSONArray of Good |客户名称|
 |sms|Integer |是否发送过短信,`1`已发 `0`未发|
+|remark|String |提交送达状态时候的备注|
 
 Good:
 
@@ -134,6 +135,8 @@ Good:
 				"cakes":3,
 				"bread":3,
 				"sauces":3,
+				"sms":1,
+				"remark":"我的备注",
 				"special_needs":1,
 				"goods": [{
 						"name": "产品名",
