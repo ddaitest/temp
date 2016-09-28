@@ -1,8 +1,11 @@
 #佟倩
 
 手机：186-1225-4041
+
 Email: ddai_android@126.com
+
 简历：https://github.com/ddaitest/temp
+
 女 | 已婚 | 1987年1月生 | 河北省廊坊市 |
 
 河北科技师范学院|大学专科|英语四级
