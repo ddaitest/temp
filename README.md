@@ -11,8 +11,8 @@
 - 兼容性
     
 - 架构优化
- - Android Support Annotation
- - APT
+  - Android Support Annotation
+  - APT
 
 
 ## Andriod New
