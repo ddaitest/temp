@@ -5,7 +5,7 @@
   - overdraw 对比
   - Constraint Layout
 - View 优化
-  - Vector
+  - Vector Asset Studio
   - Recycer View
   - Facebook Lottie
 - 兼容性
