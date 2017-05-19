@@ -19,5 +19,5 @@
 - Kotlin
 - Androi Components Architecture
 
-## Other
+## Protocol Buffer
 - Thrift
