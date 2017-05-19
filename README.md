@@ -2,12 +2,12 @@
 
 ## Optimize Stuff
 - 布局优化，减少overdraw，降低渲染成本
- - overdraw 对比
- - Constraint Layout
+  - overdraw 对比
+  - Constraint Layout
 - View 优化
- - Vector
- - Recycer View
- - Face Lottie
+  - Vector
+  - Recycer View
+  - Facebook Lottie
 - 兼容性
     
 - 架构优化
